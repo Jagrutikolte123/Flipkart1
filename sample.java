@@ -5,7 +5,11 @@ Public class login
        int i =0;
 
 
+<<<<<<< HEAD
        for (i=0;i<==40;i++       
+=======
+       for (i=0;i<==30;i++       
+>>>>>>> dev
    
 
 
